@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "00_core.html",
+    "href": "00_core.html",
+    "title": "CovidDataJapan",
+    "section": "",
+    "text": "SELECT *\nFROM 'https://raw.githubusercontent.com/kj-9/covid19jp/master/data-raw/dist/jp_daily.csv'\nLIMIT 10;\n\n\n\n\n\n  \n    \n      \n      date\n      tests\n      newCases\n      activeCases\n      severeCases\n      recovered\n      deaths\n      rt\n    \n  \n  \n    \n      0\n      2020-01-16\n      NA\n      1\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n    \n      1\n      2020-01-17\n      NA\n      0\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n    \n      2\n      2020-01-18\n      NA\n      0\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n    \n      3\n      2020-01-19\n      NA\n      0\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n    \n      4\n      2020-01-20\n      NA\n      0\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n    \n      5\n      2020-01-21\n      NA\n      0\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n    \n      6\n      2020-01-22\n      NA\n      0\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n    \n      7\n      2020-01-23\n      NA\n      0\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n    \n      8\n      2020-01-24\n      NA\n      1\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n    \n      9\n      2020-01-25\n      NA\n      1\n      NA\n      NA\n      NA\n      NA\n      NA\n    \n  \n\n\n\n\n\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Project name here",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "Project name here",
+    "section": "Install",
+    "text": "Install\npip install your_project_name"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "Project name here",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]

@@ -1,0 +1,1 @@
+Sitemap: https://kj-9.github.io/covid19jp_py/sitemap.xml
